@@ -54,9 +54,9 @@ export const birthdayConfig = {
   
   // 💌 Final Message (edit this with your personal message)
   finalMessage: {
-    paragraph1: "Happy Birthday, {name}! 🎉 You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for.",
-    paragraph2: "I hope your day is filled with laughter, surprises, and moments that make your heart happy. You're truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go.",
-    paragraph3: "Wishing you endless happiness, success, and all the sweet things life has to offer. 💗✨"
+    paragraph1: "Happy Birthday, {name}! (Gelludi) and to the biggest harry potter fan I have ever met and the magical girl.🎉 ",
+    paragraph2: "Enjoy your day and remember, you are the most amazing person I know. Keep smiling and spreading joy! 💕✨",
+    paragraph3: "Maze kr bakchodi pel khush reh aur khoon peeti rhna aur jaan bhi khana mt bhulna  💗✨"
   }
 }
 
